@@ -1,3 +1,5 @@
 Hi there!
 
 I'm Juan Esteban, a Python developer enthusiast
+
+Actually i'm taking the course "Git y github profesional" on @Platzi
